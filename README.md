@@ -1,2 +1,0 @@
-# drosjeApp
-Drosje Kalkulator App
