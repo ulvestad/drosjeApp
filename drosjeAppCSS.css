@@ -1,0 +1,39 @@
+
+header{
+	height: 50px;
+	background-color: #333333;
+	margin-top: -15px;
+}
+body{
+	background-color: #c4c4c4;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Verdana";
+	font-size: 12px;
+}
+footer{
+	position: fixed;
+	height: auto;
+	left: 0px;
+	right: 0px;
+	bottom: 0;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	background-color: #A8A8A8;
+}
+
+.flex-container{
+	display: -webkit-flex;
+    display: flex;
+    min-width: 550px;
+    max-width: 990px;
+    height: auto;
+    margin: auto;
+}
+
+ #map-canvas {
+        height: 400px;
+        width: 700px;
+      }
+
